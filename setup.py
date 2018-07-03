@@ -10,7 +10,7 @@ with open('README.rst') as readme_file:
 
 setup(
     name='keras2pmml',
-    version='0.1.0',
+    version='0.1.1',
     packages=['keras2pmml'],
     include_package_data=True,
     license='MIT',
